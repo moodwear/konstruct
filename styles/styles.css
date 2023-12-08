@@ -15,7 +15,7 @@ body {
 .header__decoration {
   height: 100vh;
   width: 100%;
-  background: url("/images/bg.jpg") no-repeat;
+  background: url("../images/bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   color: white;
@@ -176,20 +176,20 @@ body {
 }
 
 .about__card_plan {
-  background-image: url("/images/plan.png");
+  background-image: url("../images/plan.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100% 30%;
 }
 
 .about__card_manage {
-  background-image: url("/images/manage.png");
+  background-image: url("../images/manage.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .about__card_build {
-  background-image: url("/images/build.png");
+  background-image: url("../images/build.png");
 }
 
 .services__inner {
